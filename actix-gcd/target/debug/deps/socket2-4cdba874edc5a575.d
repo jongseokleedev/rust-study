@@ -1,0 +1,11 @@
+/Users/ijongseog/Desktop/sooho/study/rust/hello/actix-gcd/target/debug/deps/libsocket2-4cdba874edc5a575.rmeta: /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/lib.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockaddr.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/socket.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockref.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sys/unix.rs
+
+/Users/ijongseog/Desktop/sooho/study/rust/hello/actix-gcd/target/debug/deps/libsocket2-4cdba874edc5a575.rlib: /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/lib.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockaddr.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/socket.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockref.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sys/unix.rs
+
+/Users/ijongseog/Desktop/sooho/study/rust/hello/actix-gcd/target/debug/deps/socket2-4cdba874edc5a575.d: /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/lib.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockaddr.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/socket.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockref.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sys/unix.rs
+
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/lib.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockaddr.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/socket.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockref.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sys/unix.rs:

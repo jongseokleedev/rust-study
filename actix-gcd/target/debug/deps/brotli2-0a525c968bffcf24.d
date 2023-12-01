@@ -1,0 +1,11 @@
+/Users/ijongseog/Desktop/sooho/study/rust/hello/actix-gcd/target/debug/deps/libbrotli2-0a525c968bffcf24.rmeta: /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs
+
+/Users/ijongseog/Desktop/sooho/study/rust/hello/actix-gcd/target/debug/deps/libbrotli2-0a525c968bffcf24.rlib: /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs
+
+/Users/ijongseog/Desktop/sooho/study/rust/hello/actix-gcd/target/debug/deps/brotli2-0a525c968bffcf24.d: /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs
+
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs:

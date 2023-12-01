@@ -1,0 +1,14 @@
+/Users/ijongseog/Desktop/sooho/study/rust/hello/actix-gcd/target/debug/deps/libzerocopy-e5b304540b803028.rmeta: /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/lib.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macros.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macro_util.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/util.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/third_party/rust/layout.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/wrappers.rs
+
+/Users/ijongseog/Desktop/sooho/study/rust/hello/actix-gcd/target/debug/deps/libzerocopy-e5b304540b803028.rlib: /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/lib.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macros.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macro_util.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/util.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/third_party/rust/layout.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/wrappers.rs
+
+/Users/ijongseog/Desktop/sooho/study/rust/hello/actix-gcd/target/debug/deps/zerocopy-e5b304540b803028.d: /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/lib.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macros.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macro_util.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/util.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/third_party/rust/layout.rs /Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/wrappers.rs
+
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/lib.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macros.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/macro_util.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/util.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/third_party/rust/layout.rs:
+/Users/ijongseog/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.26/src/wrappers.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.26
